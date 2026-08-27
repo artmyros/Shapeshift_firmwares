@@ -1,5 +1,5 @@
 # Shapeshift_firmwares
-Just some firmwares for my DIY eurorack module
+Just some firmwares for my DIY ESP32-based eurorack module
 
 List of all firmwares in this repository:
 
